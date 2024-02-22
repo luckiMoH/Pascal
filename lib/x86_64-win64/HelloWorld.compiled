@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="E:\Programy\Lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1469148810"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq &quot;-FiE:\Programowanie\4.Nauka\Pascal Language\Pascal\lib\x86_64-win64&quot; -FuE:\Programy\Lazarus\lcl\units\x86_64-win64\win32 -FuE:\Programy\Lazarus\lcl\units\x86_64-win64 -FuE:\Programy\Lazarus\components\freetype\lib\x86_64-win64 -FuE:\Programy\Lazarus\components\lazutils\lib\x86_64-win64 -FuE:\Programy\Lazarus\packager\units\x86_64-win64 &quot;-FuE:\Programowanie\4.Nauka\Pascal Language\Pascal\&quot; &quot;-FUE:\Programowanie\4.Nauka\Pascal Language\Pascal\lib\x86_64-win64\&quot; &quot;-FEE:\Programowanie\4.Nauka\Pascal Language\Pascal\&quot; &quot;-oE:\Programowanie\4.Nauka\Pascal Language\Pascal\HelloWorld.exe&quot; -dLCL -dLCLwin32 HelloWorld.lpr"/>
+</CONFIG>
